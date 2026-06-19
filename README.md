@@ -2,7 +2,9 @@
 
 This repository contains code and data to analyze french research papers from the [ACL Anthology](https://aclanthology.org/) using lexical and syntactic clues of anthropomorphization of LLMs by researchers. It uses [spaCy](https://spacy.io/models/fr) models and relies on the lexical resource [Dicovalence](https://www.ortolang.fr/market/lexicons/dicovalence).  
 
-NB: Although the work was conducted on articles written in French, it could be adapted to other languages.
+NB1: Although the work was conducted on articles written in French, it could be adapted to other languages.  
+
+NB2: Some minimal changes were brought into the code compared to what was presented in the paper (see below), which can explain why some figures may be slightly different.  
 
 ## Related article (TALN)  
 
